@@ -28,6 +28,10 @@ ol{
     text-decoration: underline;
 }
 
+li a{
+    margin-left:40px;
+}
+
 
 .glyphicon .glyphicon-search{
     color: white;
@@ -69,6 +73,7 @@ ol{
     border: solid 1px lightgray;
     padding: 2px;
     margin-bottom: 20px; 
+    margin-top:20px;
 }
 
 
