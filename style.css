@@ -21,11 +21,20 @@ body { padding-top: 90px; }
 
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0cc5221f7e29958b452919a80bdd8020653a53a3
 ol{
     margin-left:10%;
     list-style-type:none;
     text-decoration: underline;
 }
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 2639072511be3201103002d421c1d4e226520656
+>>>>>>> 0cc5221f7e29958b452919a80bdd8020653a53a3
 
 
 .glyphicon .glyphicon-search{
@@ -92,7 +101,10 @@ footer p, h4{
     text-decoration: none;
     color: inherit;
 }
+<<<<<<< HEAD
+=======
 
+<<<<<<< HEAD
 .panel { position: relative; overflow: hidden; display: block; border-radius: 0 !important;  }
 .panel-default { border-color: #ebedef !important; }
 .panel .panel-body { position: relative; padding: 0 !important; overflow: hidden; height: auto; }
@@ -123,3 +135,6 @@ footer p, h4{
     background-color: white;
     opacity: 0;
 }
+=======
+>>>>>>> 2639072511be3201103002d421c1d4e226520656
+>>>>>>> 0cc5221f7e29958b452919a80bdd8020653a53a3
