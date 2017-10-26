@@ -111,6 +111,13 @@ footer {
     color: #ACAC9F;
 }
 
+.arrow {
+    margin-left: 98%;
+    display: block;
+    text-decoration: none;
+    color: #ACAC9F;
+}
+
 /* Opskrift */
 
 .opskrift {
