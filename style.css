@@ -188,7 +188,12 @@ footer {
     .navigation a:hover {
         color: black;
     }
+}
 
-    
-
+/* Om os siden */
+.rykned{
+    padding-bottom: 5em;
+}
+.omostekst{
+    font-size: 1.5em;
 }
